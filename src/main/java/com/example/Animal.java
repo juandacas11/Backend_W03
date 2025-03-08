@@ -5,6 +5,7 @@ public class Animal {
     private String raza;
     private int edad;
     private String color;
+    private String hola;
 
   
 
